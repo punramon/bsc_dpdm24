@@ -17,8 +17,10 @@ GitHub|ความสวยงาม| 5%|
 Lecture -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Lecture/01Intro.pdf)
 ## Chapter 2 Getting to Know Your Data
 Lecture -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Lecture/02Data.pdf)
+Code -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Chapter_2_Understanding_Data.ipynb)
 ## Chapter 3 Data Preprocessing
 Lecture -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Lecture/03Preprocessing.pdf)
+Code -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb)
 ## Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
 ## Chapter 8 Classification: Basic Concepts
 ## Chapter 9 Classification: Advanced Methods
