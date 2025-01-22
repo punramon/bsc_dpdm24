@@ -24,6 +24,7 @@ Lecture -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Lecture/03Pr
 
 Code -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Chapter_3_Data_Preprocessing.ipynb)
 ## Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+Quiz7 -> [Click](https://github.com/punramon/bsc_dpdm24/blob/main/Quiz7.pdf)
 ## Chapter 8 Classification: Basic Concepts
 ## Chapter 9 Classification: Advanced Methods
 ## Chapter 10 Cluster Analysis: Basic Concepts and Methods
