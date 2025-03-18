@@ -40,8 +40,8 @@ GitHub|ความสวยงาม| 5%|
 - [Chapter 9 - Classification: Advanced Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-9-classification-advanced-methods)
 - [Chapter 10 - Cluster Analysis: Basic Concepts and Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-10-cluster-analysis-basic-concepts-and-methods)
 - [Midterm Test - Data Preprocessing](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#midterm-test---data-preprocessing)
-- [Project: Data Preparation & Data Mining](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#project-data-preparation--data-mining)
-- [Machine Learning Competition](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#machine-learning-competition)
+- [Project: Data Preparation & Data Mining](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#project-data-preparation--data-mining-)
+- [Machine Learning Competition](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#machine-learning-competition-)
  
 ## Chapter 1 Introduction to Data Mining 📝
  Content | Path |
