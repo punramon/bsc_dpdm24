@@ -32,14 +32,14 @@ GitHub|ความสวยงาม| 5%|
  Total| = | 100%|
 
 ## Table of Contents :dart:		
-- [Chapter 1 - Introduction to Data Mining](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-1-introduction-to-data-mining)
-- [Chapter 2 - Getting to Know Your Data](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-2-getting-to-know-your-data)
-- [Chapter 3 - Data Preprocessing](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-3-data-preprocessing)
-- [Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-6-mining-frequent-patterns-association-and-correlations-basic-concepts-and-methods)
-- [Chapter 8 - Classification: Basic Concepts](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-8-classification-basic-concepts)
-- [Chapter 9 - Classification: Advanced Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-9-classification-advanced-methods)
-- [Chapter 10 - Cluster Analysis: Basic Concepts and Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-10-cluster-analysis-basic-concepts-and-methods)
-- [Midterm Test - Data Preprocessing](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#midterm-test---data-preprocessing)
+- [Chapter 1 - Introduction to Data Mining](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-1-introduction-to-data-mining-)
+- [Chapter 2 - Getting to Know Your Data](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-2-getting-to-know-your-data-)
+- [Chapter 3 - Data Preprocessing](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-3-data-preprocessing-)
+- [Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-6-mining-frequent-patterns-association-and-correlations-basic-concepts-and-methods-)
+- [Chapter 8 - Classification: Basic Concepts](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-8-classification-basic-concepts-)
+- [Chapter 9 - Classification: Advanced Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-9-classification-advanced-methods-)
+- [Chapter 10 - Cluster Analysis: Basic Concepts and Methods](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#chapter-10-cluster-analysis-basic-concepts-and-methods-)
+- [Midterm Test - Data Preprocessing](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#midterm-test---data-preprocessing-)
 - [Project: Data Preparation & Data Mining](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#project-data-preparation--data-mining-)
 - [Machine Learning Competition](https://github.com/punramon/bsc_dpdm24?tab=readme-ov-file#machine-learning-competition-)
  
