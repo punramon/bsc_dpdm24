@@ -164,6 +164,11 @@ Content | Path |
 >* นางสาวสิริญาพร รสจันทร์ 653020218-2
 >* นางสาวพรวลัย ฟ็อกซ์ออล 653020573-2
 
+ Content | Path |
+ -----|-----
+| Presentation | [Click to go to ProjectPresentation](https://github.com/punramon/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf)|
+| Code | [Click to go to ProjectCode](https://github.com/punramon/bsc_dpdm24/blob/main/Project_%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%94%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%9A.ipynb)|
+
 ## Machine Learning Competition 📖
 > จาก [data](https://drive.google.com/drive/folders/1B8S4D8q9-ddowqDezgLfuS00tIF-bBmJ?fbclid=IwY2xjawJGfh9leHRuA2FlbQIxMAABHSH7vPNHLkJmtCXFsc8YpXgxnCFbd1Z6jVoYKi5cp82HOIOjg7pd4W7ggg_aem_oqfhM5Uwk0u5FAPbUHcLyw)
 > ให้สร้าง model เพื่อ ทำนาย Thal_Group โดยใช้ ข้อมูลจาก training data จาก train_set.csv 
